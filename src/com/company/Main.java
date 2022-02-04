@@ -7,5 +7,8 @@ public class Main {
 
         System.out.println("Hello World!");
         System.out.println("This is for GitHub");
+
+        System.out.print("This is ");
+        System.out.println("second commit");
     }
 }
